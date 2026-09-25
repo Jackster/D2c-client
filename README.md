@@ -1,5 +1,5 @@
 # D2c-client
-Client files for D2c Private Server
+Client files for D2 Private Server AKA "Destiny 2 Classic"
 Join our small Discord server here, https://discord.gg/UWJwdUQcq
 
 <img width="2559" height="1390" alt="Screenshot 2026-09-25 203954" src="https://github.com/user-attachments/assets/9007ae14-8fbe-4de6-a6da-173a4b2ef198" />
