@@ -1,5 +1,6 @@
 # D2c-client
 Client files for D2c Private Server
+Join our small Discord server here, https://discord.gg/UWJwdUQcq
 
 ## How to install Destiny 2 and the D2c client. 
 1) Open steam console by going to steam://nav/console
@@ -26,3 +27,4 @@ https://github.com/Jackster/D2c-client/releases/
 
 8) The game will load and an overlay will show, create and account, restart the game, you will now auto login.
 You can access the overlay at any time by using the HOME key. 
+
