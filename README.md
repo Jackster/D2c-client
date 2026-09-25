@@ -2,10 +2,16 @@
 Client files for D2c Private Server
 Join our small Discord server here, https://discord.gg/UWJwdUQcq
 
+<img width="2559" height="1390" alt="Screenshot 2026-09-25 203954" src="https://github.com/user-attachments/assets/9007ae14-8fbe-4de6-a6da-173a4b2ef198" />
+
+
 What is D2c? It is a small project to bring back Destiny 2 Shadowkeep as a private server for everyone to enjoy. 
 Destiny 2 New Light removed a lot of the content from the game, which we paid for, and we wish to replay that said conntent again.
 D2c is a reverse engineering project to rebuild the backend of the game, restore the content including all the items, missions, raids etc and bring the private server online with AAA standards. 
 This includes multi server deployment, over multiple regions with high availability of game services. 
+
+<img width="2559" height="1386" alt="Screenshot 2026-09-25 204202" src="https://github.com/user-attachments/assets/8363489e-d994-4fcc-be30-d803c5f93556" />
+
 
 D2c is not Sunrise and does not contain Sunrise code in the client side. Though it does use a lot of work from the Sunrise project along with our own. 
 Massive shoutout to Sunrise and Project Dawn for their contributions to the D2 reverse engineering and scripting and helping this project finish what it started 12 months ago. 
